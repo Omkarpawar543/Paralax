@@ -1,0 +1,64 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+
+.header
+{
+	height: 80px;
+	width: 100%;
+	background-color: black;
+}
+
+.banner
+{
+	height: 550px;
+	width: 100%;
+	background-color: red;
+	background-image: url('p1.jpg');
+	background-size:cover;
+}
+
+.timepass
+{
+	width: 100%;
+	height: 400px;
+	background-color: gray;
+}
+
+
+.sairat
+{
+	height: 400px;
+	width: 100%;
+	/*background-color: red;*/
+}
+
+
+.fandri
+{
+	height: 700px;
+	width: 100%;
+	background-color: black;
+}
+
+.parralax
+{
+	height: 100vh;
+	width: 100%;
+	background-color: green;
+	background-image: url('p3.jpg');
+	background-size: cover;
+	position: fixed;
+	z-index: -1;
+}
+
+.doubleseat
+{
+
+	
+	height: 400px;
+	width: 100%;
+
+}
